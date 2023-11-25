@@ -1,0 +1,22 @@
+body{
+    background-color: #0A0800;
+}
+
+.col-sm{
+    margin-top: 50px;
+    color: aliceblue;
+}
+.fonte{
+    font-size: larger;
+    align-content: center;
+}
+.card-body{
+    color: #0A0800;
+}
+
+footer{
+    background-color: rgb(170, 170, 170);
+}
+.corf{
+    color: #0A0800;
+}
